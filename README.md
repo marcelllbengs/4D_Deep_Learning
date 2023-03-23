@@ -11,4 +11,5 @@ This repository also contains an entire environment for training and evaluating 
 
 To start a training run
 python train.py "pc_cfg" "model_cfg" gpuxx
+
 example: python train.py mtec nPath4D gpu00
