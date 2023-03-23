@@ -8,3 +8,7 @@ You can find the paper here: .....
 You can find all the models in the model_lib.py file. 
 
 This repository also contains an entire environment for training and evaluating models. Some example configs for that are given in the cfgs folder.
+
+To start a training run
+python train.py "pc_cfg" "model_cfg" gpuxx
+example: python train.py mtec nPath4D gpu00
