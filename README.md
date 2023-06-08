@@ -3,14 +3,9 @@
 
 Here, we will publish our code for our paper on 4D deep learning for motion analysis using 4D US data. 
 
-You can find the paper here: .....
+You can find the paper here: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10083305
 
-You can find all the models in the model_lib.py file. 
+You can find the code for the models in the model_lib.py file. 
 
-This repository also contains an entire environment for training and evaluating models. Some example configs for that are given in the cfgs folder.
+Example configurations for the models are given in the cfg folder. 
 
-To start a training run
-
-python train.py "pc_cfg" "model_cfg" gpuxx
-
-example: python train.py mtec nPath4D gpu00
