@@ -1,6 +1,6 @@
 # Real-Time Motion Analysis with 4D Deep Learning for Ultrasound-guided Radiotherapy
 
-Here, we will publish our code for our paper "Real-Time Motion Analysis with 4D Deep
+Here, we publish our code for our paper "Real-Time Motion Analysis with 4D Deep
 Learning for Ultrasound-guided Radiotherapy" 
 
 You can find the paper here: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10083305
