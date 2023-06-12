@@ -9,7 +9,7 @@ Authors: Marcel Bengs*, Johanna Sprenger*, Stefan Gerlach*, Maximilian Neidhardt
 
 You can find the paper here: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10083305
 
-You can find the code for the models in the model_lib.py file. 
+You can find the code for the models of our paper in the model_lib.py file. 
 
 Example configurations for the models are given in the cfg folder. 
 
