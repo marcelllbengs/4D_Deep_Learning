@@ -1,6 +1,6 @@
 # Real-Time Motion Analysis with 4D Deep Learning for Ultrasound-guided Radiotherapy
 
-Here, we publish our code for our paper "Real-Time Motion Analysis with 4D Deep
+Here, we provide our code for our paper "Real-Time Motion Analysis with 4D Deep
 Learning for Ultrasound-guided Radiotherapy" 
 
 Authors: Marcel Bengs*, Johanna Sprenger*, Stefan Gerlach*, Maximilian Neidhardt*, Alexander Schlaefer*
